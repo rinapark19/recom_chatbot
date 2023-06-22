@@ -9,3 +9,6 @@
 
 [RM 학습용 데이터 생성](https://github.com/rinapark19/recom_chatbot/blob/main/RM_data_generator.ipynb)
 : RM 학습용 데이터 만듦
+
+[프롬프트 생성](https://github.com/rinapark19/recom_chatbot/blob/main/%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8%ED%81%AC%EB%A1%A4%EB%A7%81.ipynb)
+: 자연스러운 프롬프트를 위해 네이버 지식인에서 책 추천과 관련된 텍스트 크롤링
