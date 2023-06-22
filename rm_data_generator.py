@@ -3,7 +3,7 @@ import openai
 from langchain.llms import OpenAI
 import json
 
-os.environ['OPENAI_API_KEY'] = "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"
+os.environ['OPENAI_API_KEY'] = "API_KEY"
 
 def get_response(prompt:str):
     data = {}
